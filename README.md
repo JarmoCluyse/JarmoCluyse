@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi there, I'm Jarmo Cluyse! 👋
 
-<!--
-**JarmoCluyse/JarmoCluyse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an R&D Software Engineer at Movu Robotics, passionate about backend and frontend development.
 
-Here are some ideas to get you started:
+[![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?logo=arch-linux&logoColor=white)](https://archlinux.org/) _I use Arch btw_  
+[![Neovim](https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=white)](https://neovim.io/) _I use Neovim btw_
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+
+- Go
+- Node.js / Bun
+- C#
+- Python
+- TypeScript
+- React
+
+## 💼 About Me
+- 👨‍💻 Engineer @ Movu Robotics
+- 🧑‍🍼 Proud dad
+- 🏋️ Fitness enthusiast (catch me at the gym!)
+
+---
+
+> **Always learning, always building.**  
+> I'm constantly exploring new technologies, languages, and better ways to build software.  
+> Currently investigating htmx with Go as backend.
+
+## 📫 Connect with Me
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jarmocluyse) LinkedIn
+- [![Email](https://img.shields.io/badge/Email-grey?logo=gmail&logoColor=white)](mailto:jarmo_cluyse@hotmail.com) jarmo_cluyse@hotmail.com
