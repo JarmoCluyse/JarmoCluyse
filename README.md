@@ -26,5 +26,6 @@ I'm an R&D Software Engineer at Movu Robotics, passionate about backend and fron
 > Currently investigating htmx with Go as backend.
 
 ## 📫 Connect with Me
+- [![Portfolio](https://img.shields.io/badge/Portfolio-anacondaa.dev-black?logo=vercel&logoColor=white)](https://anacondaa.dev/) anacondaa.dev
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jarmocluyse) LinkedIn
 - [![Email](https://img.shields.io/badge/Email-grey?logo=gmail&logoColor=white)](mailto:jarmo_cluyse@hotmail.com) jarmo_cluyse@hotmail.com
